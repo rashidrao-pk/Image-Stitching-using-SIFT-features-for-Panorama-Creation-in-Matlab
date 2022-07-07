@@ -45,4 +45,4 @@ In part B, two images Glendon-Hall-left, Glendon-Hall-middle and Glendon-Hall-ri
     6.1.	Max Score is selected from homography score.
     6.2.	Homography based points are then plotted.
   7.	Step7: Create panorama
-    7.1.	Panorama is created using above data and passed to vl_imwbackward.m
+    7.1.	Panorama is created using above data and passed to vl_imwbackward.m 
