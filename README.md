@@ -2,7 +2,7 @@
 Image Stitching using SIFT features for Panorama Creation in Matlab
 
 Image Stitching Based on Affine and Homography
-Part A:
+## Part A:
 In part A, two images parliament-left and parliament-right are being stitched.
   1.	Step1: Preprocessing<br>
     1.1.	Conversion to Single<br>
@@ -23,7 +23,7 @@ In part A, two images parliament-left and parliament-right are being stitched.
   7.	Step7: Create panorama<br>
     7.1.	Panorama is created using above data and passed to vl_imwbackward.m<br>
  <br>
-Part B:<br>
+## Part B:<br>
 In part B, two images Glendon-Hall-left, Glendon-Hall-middle and Glendon-Hall-right are being stitched.<br>
   1.	Step1: Preprocessing<br>
     1.1.	Conversion to Single<br>
@@ -46,3 +46,48 @@ In part B, two images Glendon-Hall-left, Glendon-Hall-middle and Glendon-Hall-ri
     6.2.	Homography based points are then plotted.<br>
   7.	Step7: Create panorama<br>
     7.1.	Panorama is created using above data and passed to vl_imwbackward.m <br>
+
+![Figure 1](https://user-images.githubusercontent.com/25412736/177797140-a7b4d181-5f86-496f-8f37-6373ff897945.jpg)
+
+
+![Full SS](https://user-images.githubusercontent.com/25412736/177797154-74841ac5-8cb1-4653-9663-84f18dee0e89.PNG)
+
+![Left with Features](https://user-images.githubusercontent.com/25412736/177797167-d6ec240e-8c73-4406-82cc-916a03093076.png)
+
+
+![Matched Features Part_A](https://user-images.githubusercontent.com/25412736/177797178-af259008-cd04-4011-befa-6714ed1b14d6.png)
+
+
+![Part B 1st Stitched Image (Img1+Img2) with Features](https://user-images.githubusercontent.com/25412736/177797194-e9532da5-b27f-4160-b678-7803de7f2d19.png)
+
+
+![Part B Final Stitched Image (Img1+Img2 + Img3) with Features](https://user-images.githubusercontent.com/25412736/177797203-3bb9d3c6-c1bd-48df-952b-b74dc0734005.png)
+
+
+![Part B Img 1 with Features](https://user-images.githubusercontent.com/25412736/177797220-999f5543-1c7c-4840-a839-5664732cdb03.png)
+
+
+![Part B Img 2 with Features](https://user-images.githubusercontent.com/25412736/177797230-bd50985a-b9da-40ca-a4a3-f6ddab977707.png)
+
+
+![Part B Img 3 with Features](https://user-images.githubusercontent.com/25412736/177797242-96e658c9-4c59-4d05-b682-882982df31e8.png)
+
+
+![Part B Img1 and Img2 Matched Feature](https://user-images.githubusercontent.com/25412736/177797255-1e7e5039-f692-4013-9434-fcc6b218f9ff.png)
+
+
+  ![Part B Img1, Img2 and Img3 Matched Feature](https://user-images.githubusercontent.com/25412736/177797265-7d8ccd09-91a5-4b58-a454-2c8c95a682be.png)
+
+
+![Uploading Part B Stitched Image of Img1 and Img2.png…]()
+
+
+![Process](https://user-images.githubusercontent.com/25412736/177797288-b4972a7d-8d92-4d85-92e8-e0dd9c684378.PNG)
+
+
+![Right with Features](https://user-images.githubusercontent.com/25412736/177797301-c16f829c-f87c-4e43-902e-4639b1116459.png)
+
+
+![Uploading Stitched Image Part A.png…]()
+
+
